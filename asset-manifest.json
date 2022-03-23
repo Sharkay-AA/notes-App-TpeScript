@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/notes-App-TpeScript/static/css/main.b24e734a.css",
+    "main.js": "/notes-App-TpeScript/static/js/main.7fae69bc.js",
+    "index.html": "/notes-App-TpeScript/index.html",
+    "main.b24e734a.css.map": "/notes-App-TpeScript/static/css/main.b24e734a.css.map",
+    "main.7fae69bc.js.map": "/notes-App-TpeScript/static/js/main.7fae69bc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b24e734a.css",
+    "static/js/main.7fae69bc.js"
+  ]
+}
